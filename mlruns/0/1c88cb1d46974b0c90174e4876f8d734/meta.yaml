@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/OneDrive/Desktop/Ass_2/mlruns/0/1c88cb1d46974b0c90174e4876f8d734/artifacts
+end_time: 1708665119095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c88cb1d46974b0c90174e4876f8d734
+run_name: amazing-hare-282
+run_uuid: 1c88cb1d46974b0c90174e4876f8d734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708665114028
+status: 3
+tags: []
+user_id: ASUS

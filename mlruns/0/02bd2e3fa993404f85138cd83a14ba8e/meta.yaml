@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/OneDrive/Desktop/Ass_2/mlruns/0/02bd2e3fa993404f85138cd83a14ba8e/artifacts
+end_time: 1708675001468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02bd2e3fa993404f85138cd83a14ba8e
+run_name: traveling-mule-551
+run_uuid: 02bd2e3fa993404f85138cd83a14ba8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708674993214
+status: 4
+tags: []
+user_id: ASUS

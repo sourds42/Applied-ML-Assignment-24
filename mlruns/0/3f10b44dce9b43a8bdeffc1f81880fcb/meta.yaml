@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/OneDrive/Desktop/Ass_2/mlruns/0/3f10b44dce9b43a8bdeffc1f81880fcb/artifacts
+end_time: 1708697423935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f10b44dce9b43a8bdeffc1f81880fcb
+run_name: big-perch-427
+run_uuid: 3f10b44dce9b43a8bdeffc1f81880fcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708697414926
+status: 3
+tags: []
+user_id: ASUS

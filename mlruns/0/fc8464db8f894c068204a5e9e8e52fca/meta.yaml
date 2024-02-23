@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/OneDrive/Desktop/Ass_2/mlruns/0/fc8464db8f894c068204a5e9e8e52fca/artifacts
+end_time: 1708661653673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc8464db8f894c068204a5e9e8e52fca
+run_name: inquisitive-shad-598
+run_uuid: fc8464db8f894c068204a5e9e8e52fca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708661637202
+status: 3
+tags: []
+user_id: ASUS

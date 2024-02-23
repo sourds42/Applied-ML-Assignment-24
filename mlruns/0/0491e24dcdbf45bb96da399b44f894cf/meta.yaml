@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/OneDrive/Desktop/Ass_2/mlruns/0/0491e24dcdbf45bb96da399b44f894cf/artifacts
+end_time: 1708701233152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0491e24dcdbf45bb96da399b44f894cf
+run_name: burly-hound-24
+run_uuid: 0491e24dcdbf45bb96da399b44f894cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708701222889
+status: 3
+tags: []
+user_id: ASUS

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ASUS/OneDrive/Desktop/Ass_2/mlruns/0/61cfc5ab9f804653bbc74527eaa42a2b/artifacts
+end_time: 1708701308959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61cfc5ab9f804653bbc74527eaa42a2b
+run_name: puzzled-penguin-359
+run_uuid: 61cfc5ab9f804653bbc74527eaa42a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708701308635
+status: 4
+tags: []
+user_id: ASUS
